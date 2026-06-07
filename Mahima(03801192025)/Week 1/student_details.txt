@@ -1,0 +1,5 @@
+Student Details 
+Name:Mahima
+Roll Number: 038
+Course: AIML
+Marks: 96
